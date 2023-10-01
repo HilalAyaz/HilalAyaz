@@ -6,11 +6,14 @@ I'm a passionate Full Stack Web/Software Developer with a focus on building MERN
 - 🌱 I'm actively learning and expanding my skills in MERN Stack Development.
 - 💼 I'm open to collaboration on any exciting projects.
 - 🤔 I'm seeking opportunities to gain real-world experience and contribute to meaningful projects.
-- 📫 You can reach out to me on Instagram: [@devdesignerpk](https://www.instagram.com/devdesignerpk/).
 
-### My Tech Stack
+### Passion and Drive
 
-<p align="center">
+I am deeply passionate about web development and creating beautiful, responsive websites using modern technology. I am a quick learner and a team player. I am confident that my unique blend of skills and experience will make me an asset to any development team. I am eager to take on new challenges and contribute to projects that make a meaningful impact.
+
+### Languages & Tools
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="30" height="35"/>
@@ -19,22 +22,21 @@ I'm a passionate Full Stack Web/Software Developer with a focus on building MERN
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="35" height="35"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-plain.svg" alt="bash" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original-wordmark.svg" alt="mySQL" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-plain-wordmark.svg" alt="nodeJS" width="35" height="35"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
+
 </p>
-### Projects
 
-Feel free to explore my repositories to see my work.
-
-### Passion and Drive
-
-I am deeply passionate about web development and creating beautiful, responsive websites using modern technology. I am a quick learner and a team player. I am confident that my unique blend of skills and experience will make me an asset to any development team. I am eager to take on new challenges and contribute to projects that make a meaningful impact.
 
 ### Connect with Me
 
-
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/itshilaal/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="me in linkedin" height="auto" width="20"/> LinkedIn</a><br/><br/>
   <a href="https://codepen.io/HilalAyaz"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-multi-platform-online-code-editor-and-open-source-learning-service-logo-shadow-tal-revivo.png" alt="codepen profile" height="auto" width="20"/> CodePen</a><br/><br/>
 </p>
+
 ### Fun Fact
 
 I have a fascination with travel because it allows me to learn about new cultures, meet people, and explore beautiful mountainous landscapes. 🌄
