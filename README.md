@@ -11,6 +11,8 @@ I'm a passionate Full Stack Web/Software Developer with a focus on building MERN
 
 I am deeply passionate about web development and creating beautiful, responsive websites using modern technology. I am a quick learner and a team player. I am confident that my unique blend of skills and experience will make me an asset to any development team. I am eager to take on new challenges and contribute to projects that make a meaningful impact.
 
+Let's connect, collaborate, and create amazing software together! 🚀
+
 ### Languages & Tools
 
 <p>
@@ -41,4 +43,3 @@ I am deeply passionate about web development and creating beautiful, responsive 
 
 I have a fascination with travel because it allows me to learn about new cultures, meet people, and explore beautiful mountainous landscapes. 🌄
 
-Let's connect, collaborate, and create amazing software together! 🚀
