@@ -1,4 +1,4 @@
-# Hi there, I'm Hilal! <a href="https://Github.com/HilalAyaz" style="float: right;">Github</a>
+# Hi there, I'm Hilal! <a href="https://hilalayaz-webdev.netlify.app/" style="float: right;">My Portfolio</a>
 
 
 <p align="center">
